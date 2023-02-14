@@ -16,3 +16,10 @@ A micro-service that I made for my CS361 class, can return date and day of the w
 * *get full date* -- This command will return the date and day of the week in a YYYY-MM-DD,dayOfTheWeek format
 
 * *exit* -- This command will clear the dateMicroservice.txt file and will kill the microservice process
+
+## Sequence Diagram:
+
+
+* The main program requests the date, day of the week, or both by writing a command to a textfile
+
+* The micro-service processes the command and then clears the contents of the text file and replaces them with the output 
