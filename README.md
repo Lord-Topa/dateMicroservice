@@ -19,6 +19,7 @@ A micro-service that I made for my CS361 class, can return date and day of the w
 
 ## Sequence Diagram:
 
+![UML](https://user-images.githubusercontent.com/48222621/218625540-7644d753-5b62-496c-83ea-0ad870059f81.png)
 
 * The main program requests the date, day of the week, or both by writing a command to a textfile
 
